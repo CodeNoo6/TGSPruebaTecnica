@@ -3,7 +3,8 @@ namespace SRVParqueMotor.Business.Interface
 {
 	public interface INegocio
 	{
-        public decimal calculoDescuentoAmbiental(string sCatalogo, decimal dCobro);
-        public bool validaFecha(string fInicial, string fFinal);
+        public decimal calculoDescuentoAmbiental(string dCobro);
+        public decimal calculoCostoParqueo(DateTime fIngreso, DateTime fSalida, int sTipo);
+        public bool validaFecha(DateTime fIngreso, DateTime fSalida);
     }
 }

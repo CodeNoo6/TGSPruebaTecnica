@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "fnCc6FuuQ6kZbXV/bbVCIP4II654Im6DynW78AzA/AIpLG+Fjrpf1JmEbJfgtIjGw70htmbH6PhBXpC14ZPQgQ==",
+  "dgSpecHash": "tBmtEo5UyO3qjVieDd/XnBLPfBulZenoimSBH6QBylLH/sRx/aMpNivWnkMlz4o2w+9iRvpQbPLYFXlRdeJ0Nw==",
   "success": true,
-  "projectFilePath": "/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/SRVParqueMotor.Repository.csproj",
+  "projectFilePath": "C:\\Users\\ruben\\OneDrive\\Documentos\\GitHub\\TGSPruebaTecnica\\SRVParqueMotor.Repository\\SRVParqueMotor.Repository.csproj",
   "expectedPackageFiles": [
-    "/Users/gandalf/.nuget/packages/dapper/2.0.123/dapper.2.0.123.nupkg.sha512",
-    "/Users/gandalf/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
-    "/Users/gandalf/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "/Users/gandalf/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "/Users/gandalf/.nuget/packages/mongodb.bson/2.19.1/mongodb.bson.2.19.1.nupkg.sha512",
-    "/Users/gandalf/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512",
-    "/Users/gandalf/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\ruben\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\mongodb.bson\\2.19.1\\mongodb.bson.2.19.1.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\ruben\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

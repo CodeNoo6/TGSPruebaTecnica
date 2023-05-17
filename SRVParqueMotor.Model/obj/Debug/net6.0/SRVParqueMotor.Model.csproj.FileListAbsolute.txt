@@ -10,3 +10,15 @@
 /Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Model/obj/Debug/net6.0/refint/SRVParqueMotor.Model.dll
 /Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Model/obj/Debug/net6.0/SRVParqueMotor.Model.pdb
 /Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Model/obj/Debug/net6.0/ref/SRVParqueMotor.Model.dll
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\bin\Debug\net6.0\SRVParqueMotor.Model.deps.json
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\bin\Debug\net6.0\SRVParqueMotor.Model.dll
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\bin\Debug\net6.0\SRVParqueMotor.Model.pdb
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\obj\Debug\net6.0\SRVParqueMotor.Model.csproj.AssemblyReference.cache
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\obj\Debug\net6.0\SRVParqueMotor.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\obj\Debug\net6.0\SRVParqueMotor.Model.AssemblyInfoInputs.cache
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\obj\Debug\net6.0\SRVParqueMotor.Model.AssemblyInfo.cs
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\obj\Debug\net6.0\SRVParqueMotor.Model.csproj.CoreCompileInputs.cache
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\obj\Debug\net6.0\SRVParqueMotor.Model.dll
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\obj\Debug\net6.0\refint\SRVParqueMotor.Model.dll
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\obj\Debug\net6.0\SRVParqueMotor.Model.pdb
+C:\Users\ruben\OneDrive\Documentos\GitHub\TGSPruebaTecnica\SRVParqueMotor.Model\obj\Debug\net6.0\ref\SRVParqueMotor.Model.dll

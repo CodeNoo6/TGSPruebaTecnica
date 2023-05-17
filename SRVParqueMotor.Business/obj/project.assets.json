@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/gandalf/.nuget/packages/": {}
+    "C:\\Users\\ruben\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/SRVParqueMotor.Business.csproj",
+      "projectUniqueName": "C:\\Users\\ruben\\OneDrive\\Documentos\\GitHub\\TGSPruebaTecnica\\SRVParqueMotor.Business\\SRVParqueMotor.Business.csproj",
       "projectName": "SRVParqueMotor.Business",
-      "projectPath": "/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/SRVParqueMotor.Business.csproj",
-      "packagesPath": "/Users/gandalf/.nuget/packages/",
-      "outputPath": "/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/",
+      "projectPath": "C:\\Users\\ruben\\OneDrive\\Documentos\\GitHub\\TGSPruebaTecnica\\SRVParqueMotor.Business\\SRVParqueMotor.Business.csproj",
+      "packagesPath": "C:\\Users\\ruben\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ruben\\OneDrive\\Documentos\\GitHub\\TGSPruebaTecnica\\SRVParqueMotor.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/gandalf/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\ruben\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -49,8 +51,7 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -59,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

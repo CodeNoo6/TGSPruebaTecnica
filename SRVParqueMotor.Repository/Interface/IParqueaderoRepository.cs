@@ -6,8 +6,11 @@ namespace SRVParqueMotor.Repository.Interface
 	public interface IParqueaderoRepository
 	{
         public void post(Tarjeta objParqueadero);
-        public void put(int id_tarjeta, Tarjeta objTarjeta);
-        public Tarjeta getById(int id_tarjeta);
-        public IEnumerable<Tarjeta> getAll();
+        public void put(TarjetaActualizacion objTarjetaActualizacion);
+        public IEnumerable<TarjetaVehiculo> getAll();
+
+        public void delete(int tarjetaId);
+
+        public decimal cerrarParqueadero();
     }
 }

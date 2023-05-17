@@ -4,5 +4,61 @@
         <name>SRVParqueMotor</name>
     </assembly>
     <members>
+        <member name="M:SRVParqueMotor.Controllers.ParqueaderoController.listarVehiculos">
+            <summary>
+            Lista las tarjetas entregadas ha vehiculos que ingresaron al parqueadero.
+            </summary>
+        </member>
+        <member name="M:SRVParqueMotor.Controllers.ParqueaderoController.ingresoVehiculo(SRVParqueMotor.Model.Tarjeta)">
+             <summary>
+             Registra una nueva tarjeta en la base de datos.
+             </summary>
+             <remarks>
+             JSON de ejemplo, el valor de tipo de vehiculo 1->Motocicleta || 2->Vehiculo Ligero:
+            
+                 POST /api/IngresarTarjeta
+                 {
+                    "fechaIngreso": "2023-05-16T09:30:00",
+                    "fechaSalida": "2023-05-16T10:30:00",
+                    "plaza": 1,
+                    "objVehiculo": {
+                         "placa": "HTE524",
+                          "tipo": {
+                             "id": 2
+                           }
+                    },
+                    "aplicaDescuento": true
+                 }
+            
+             </remarks>
+        </member>
+        <member name="M:SRVParqueMotor.Controllers.ParqueaderoController.actualizar(SRVParqueMotor.Model.TarjetaActualizacion)">
+             <summary>
+             Actualiza la tarjeta por si el sistema sufre algun fallo.
+             </summary>
+             <remarks>
+             JSON de ejemplo para una actualización:
+            
+                 PUT /api/ActualizarTarjeta
+                 {
+                    "placa": "string",
+                    "fechaIngreso": "2023-05-17T08:02:00.545Z",
+                    "tipoVehiculoId": 0,
+                    "fechaSalida": "2023-05-17T08:02:00.545Z",
+                    "aplicaDescuento": true
+                 }
+            
+             </remarks>
+        </member>
+        <member name="M:SRVParqueMotor.Controllers.ParqueaderoController.Eliminar(System.Int32)">
+            <summary>
+            Elimina las tarjetas o positivos que genere el sistema mediante un id
+            </summary>
+        </member>
+        <member name="M:SRVParqueMotor.Controllers.ParqueaderoController.cerrarParqueadero">
+            <summary>
+            Cierra el parqueadero realizando una busqueda de los ehiculos que se encuentran aun alli, los selecciona y les va generando un cóbro.
+            </summary>
+        </member>
     </members>
 </doc>

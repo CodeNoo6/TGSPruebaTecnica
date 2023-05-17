@@ -27,7 +27,7 @@ var info = new OpenApiInfo()
 {
     Version = "V1",
     Title = "API Parqueo Automotor",
-    Description = "Servicio de parqueo de vehículos y motocicletas en la ciudad de Bogotá",
+    Description = "Servicio de parqueo de vehículos y motocicletas que permite realizar diferentes operaciones y opera en la ciudad de Bogotá",
     Contact = contactInfo,
 };
 
