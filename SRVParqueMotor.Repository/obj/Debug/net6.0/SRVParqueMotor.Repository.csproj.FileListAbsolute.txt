@@ -1,0 +1,17 @@
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/bin/Debug/net6.0/SRVParqueMotor.Repository.deps.json
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/bin/Debug/net6.0/SRVParqueMotor.Repository.dll
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/bin/Debug/net6.0/SRVParqueMotor.Repository.pdb
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/bin/Debug/net6.0/SRVParqueMotor.Model.dll
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/bin/Debug/net6.0/SRVParqueMotor.Model.pdb
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/SRVParqueMotor.Repository.csproj.AssemblyReference.cache
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/SRVParqueMotor.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/SRVParqueMotor.Repository.AssemblyInfoInputs.cache
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/SRVParqueMotor.Repository.AssemblyInfo.cs
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/SRVParqueMotor.Repository.csproj.CoreCompileInputs.cache
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/SRVParqueMotor.Repository.csproj.CopyComplete
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/SRVParqueMotor.Repository.dll
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/refint/SRVParqueMotor.Repository.dll
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/SRVParqueMotor.Repository.pdb
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/obj/Debug/net6.0/ref/SRVParqueMotor.Repository.dll
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/bin/Debug/net6.0/SRVParqueMotor.Business.dll
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Repository/bin/Debug/net6.0/SRVParqueMotor.Business.pdb

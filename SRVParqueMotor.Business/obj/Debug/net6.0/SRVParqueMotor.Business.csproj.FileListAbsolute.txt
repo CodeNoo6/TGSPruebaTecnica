@@ -1,0 +1,12 @@
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/bin/Debug/net6.0/SRVParqueMotor.Business.deps.json
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/bin/Debug/net6.0/SRVParqueMotor.Business.dll
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/bin/Debug/net6.0/SRVParqueMotor.Business.pdb
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/Debug/net6.0/SRVParqueMotor.Business.csproj.AssemblyReference.cache
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/Debug/net6.0/SRVParqueMotor.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/Debug/net6.0/SRVParqueMotor.Business.AssemblyInfoInputs.cache
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/Debug/net6.0/SRVParqueMotor.Business.AssemblyInfo.cs
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/Debug/net6.0/SRVParqueMotor.Business.csproj.CoreCompileInputs.cache
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/Debug/net6.0/SRVParqueMotor.Business.dll
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/Debug/net6.0/refint/SRVParqueMotor.Business.dll
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/Debug/net6.0/SRVParqueMotor.Business.pdb
+/Users/gandalf/Projects/SRVParqueMotor/SRVParqueMotor.Business/obj/Debug/net6.0/ref/SRVParqueMotor.Business.dll
